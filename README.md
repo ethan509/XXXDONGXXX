@@ -3,6 +3,7 @@
 This is a server template project generated for XXXDONGXXX.
 
 > **📖 새로 시작하시나요?** [SETUP.md](./SETUP.md)에서 개발 환경 설정 가이드를 확인하세요.
+> **🗄️ 데이터베이스 연결?** [DB_INTEGRATION.md](./docs/DB_INTEGRATION.md)에서 PostgreSQL, MySQL, MongoDB 통합 가이드를 확인하세요.
 
 ## Features
 
