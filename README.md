@@ -2,6 +2,8 @@
 
 This is a server template project generated for XXXDONGXXX.
 
+> **📖 새로 시작하시나요?** [SETUP.md](./SETUP.md)에서 개발 환경 설정 가이드를 확인하세요.
+
 ## Features
 
 - Graceful shutdown (max 1 minute)
